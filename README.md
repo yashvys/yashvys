@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vaddiyashwanth88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EC3dZgOr_c1-xf0NvGAK6kqbTP5U9tkH/view?usp=sharing](https://drive.google.com/file/d/1EC3dZgOr_c1-xf0NvGAK6kqbTP5U9tkH/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1K1_BhjxvX9D8lgWnRLfo0FUK7cqmxiQF/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
