@@ -12,7 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-vaddi" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://yashvys.github.io/MyPortfolio/" target="blank">
     <img align="center" src="https://tse3.mm.bing.net/th?id=OIG1.E6n3ppuZjKZwWpXjNe5X&pid=ImgGn" alt="your-portfolio" height="30" width="40" />
