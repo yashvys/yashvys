@@ -5,8 +5,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIG2.WfzfAw._wv7jsm4UfimS&pid=ImgGn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvys&label=Profile%20views&color=0e75b6&style=flat" alt="yashvys" /> </p>
-
 
 -  I’m currently learning **Java full stack development**
 
