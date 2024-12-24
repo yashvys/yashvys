@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashwanth Vaddi</h1>
-<h3 align="center">Fresher Software Developer with experience in Java Full Stack, Web Development, and Industrial Automation. Passionate about building impactful solutions with technologies like Java, Spring Boot, MySQL, and JavaScript. Currently exploring eCommerce and payment integration systems.</h3>
+<h3 align="center">Fresher Software Developer with experience in Java Full Stack and Web Development. Passionate about building impactful solutions using technologies like Java, JDBC, Servlets, Hibernate, Spring, MySQL, and JavaScript. Currently learning frameworks like Spring and Spring Boot.</h3>
+
 
 
 -  I’m currently learning **Java full stack development**
