@@ -1,9 +1,26 @@
+<style>
+  .responsive-image {
+    max-width: 1000px; /* Adjust as needed */
+    height: auto;
+    display: block; /* Remove any default inline behavior */
+  }
+  
+    /* Ensure the image scales down further on smaller screens */
+  @media (max-width: 768px) {
+    .responsive-image {
+      max-width: 90%; /* Scale down to fit smaller screens */
+    }
+  }
+
+</style>
+</head>
+<body>
+
 <img 
     src="https://tse3.mm.bing.net/th?id=OIG1.SV6gHgjm55QCD6_F5z1q&pid=ImgGn" 
     alt="MasterHead" 
-    width="5000" 
-    height="600" 
-/>
+    class="responsive-image"
+/> 
 <h1 align="center">Hi 👋, I'm Yashwanth Vaddi</h1>
 <h3 align="center">Fresher Software Developer with experience in Java Full Stack, Web Development, and Industrial Automation. Passionate about building impactful solutions with technologies like Java, Spring Boot, MySQL, and JavaScript. Currently exploring eCommerce and payment integration systems.</h3>
 
