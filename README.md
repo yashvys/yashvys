@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vaddiyashwanth88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K1_BhjxvX9D8lgWnRLfo0FUK7cqmxiQF/view?usp=drivesdk)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1K1_BhjxvX9D8lgWnRLfo0FUK7cqmxiQF/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">View Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
