@@ -8,16 +8,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yashwanth-vaddi" target="blank">
+  <a href="https://linkedin.com/in/yashwanth-vaddi" target="blank" style="display: inline-block; margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-vaddi" height="30" width="40" />
   </a>
-</p>
-
-<p align="left">
-  <a href="https://yashvys.github.io/MyPortfolio/" target="blank">
+  
+  <a href="https://yashvys.github.io/MyPortfolio/" target="blank" style="display: inline-block;">
     <img align="center" src="https://tse3.mm.bing.net/th?id=OIG1.E6n3ppuZjKZwWpXjNe5X&pid=ImgGn" alt="your-portfolio" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
