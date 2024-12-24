@@ -3,9 +3,6 @@
 <h3 align="center">Fresher Software Developer with experience in Java Full Stack, Web Development, and Industrial Automation. Passionate about building impactful solutions with technologies like Java, Spring Boot, MySQL, and JavaScript. Currently exploring eCommerce and payment integration systems.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://tse2.mm.bing.net/th?id=OIG2.WfzfAw._wv7jsm4UfimS&pid=ImgGn" />
-
-
 -  I’m currently learning **Java full stack development**
 
 -  How to reach me **vaddiyashwanth88@gmail.com**
