@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://yashvys.github.io/MyPortfolio/" target="blank">
-    <img align="center" src="https://tse3.mm.bing.net/th?id=OIG2.YFdE77nL63m3wjEKuLok&pid=ImgGn" alt="your-portfolio" height="30" width="40" />
+    <img align="center" src="https://tse3.mm.bing.net/th?id=OIG1.E6n3ppuZjKZwWpXjNe5X&pid=ImgGn" alt="your-portfolio" height="30" width="40" />
   </a>
 </p>
 
