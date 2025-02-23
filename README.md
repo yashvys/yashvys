@@ -4,7 +4,7 @@
 
 - I’m currently learning **Java Full Stack Development**  
 - How to reach me: **vaddiyashwanth88@gmail.com**  
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Hkx9hDSQGS7n8jaG0aCR72dH-J5hjttI/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/19vMtJY55pf7Q1rt2pUPpDnZBXuqriHZB/view?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
